@@ -40,9 +40,13 @@ This project implements a robust load balancer backend using JavaScript. It supp
 ## Usage
 1. Start the load balancer:
     ```bash
-    node load_balancer.js
+    node server.js
     ```
-2. Configure the load balancing algorithm and server pool in `config.json`.
+2. Start the servers:
+    ```bash
+    node index.js
+    ```
+3. Configure the load balancing algorithm and server pool in `config.json`.
 
 ## Configuration
 Modify the `config.json` file to set up your server pool and choose the desired load balancing algorithm.
