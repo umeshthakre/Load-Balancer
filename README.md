@@ -1,8 +1,4 @@
-Sure! Here’s a README file tailored for a JavaScript-based load balancer backend project:
-
----
-
-# Load Balancer Backend Project
+# Load-Balancer
 
 ## Overview
 This project implements a robust load balancer backend using JavaScript. It supports four different load balancing algorithms to efficiently distribute network traffic across a pool of servers, enhancing performance, reliability, and scalability.
@@ -33,8 +29,8 @@ This project implements a robust load balancer backend using JavaScript. It supp
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/load-balancer-backend.git
-    cd load-balancer-backend
+    git clone https://github.com/umeshthakre/load-balancer.git
+    cd load-balancer
     ```
 2. Install the dependencies:
     ```bash
